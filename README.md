@@ -1,2 +1,2 @@
-Physics Major at Lancaster University
-I create random projects to learn
+- Physics Major at Lancaster University
+- I create random projects to learn
