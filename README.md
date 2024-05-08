@@ -1,2 +1,2 @@
-- Physics Major at Lancaster University
+- Physics Undergrad at Lancaster University
 - I create random projects to learn
